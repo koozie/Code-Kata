@@ -1,6 +1,11 @@
 Kata Potter
 ==========
 
+Presented at Austin.rb meeting held on 21 FEB 2012 at CoSpace offices in 
+North Austin.
+
+
+
 Found at [CodingDojo](http://codingdojo.org/cgi-bin/wiki.pl?KataPotter)
 
 Once upon a time there was a series of 5 books about a very English hero
